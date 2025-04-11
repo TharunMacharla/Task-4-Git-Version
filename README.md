@@ -15,3 +15,4 @@ This project demonstrates DevOps CI/CD automation using version control best pra
 
 ## Getting Started
 Steps to clone and run the project locally...
+
